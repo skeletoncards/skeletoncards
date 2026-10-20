@@ -10,7 +10,6 @@
 - 🕵️ Into hacking, exploiting and offensive security — TryHackMe & HackTheBox in my free time.
 - 🤖 Mostly found soldering sensors to microcontrollers or poking at a vulnerable VM.
 - 🌱 Currently sharpening C++/Python and picking up a bit of game dev on the side.
-- 📫 Reach me at **stefanradu320@gmail.com**
 
 <br>
 
