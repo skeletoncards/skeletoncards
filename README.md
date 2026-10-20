@@ -10,6 +10,7 @@
 - 🕵️ Into hacking, exploiting and offensive security — TryHackMe & HackTheBox in my free time.
 - 🤖 Mostly found soldering sensors to microcontrollers or poking at a vulnerable VM.
 - 🌱 Currently sharpening C++/Python and picking up a bit of game dev on the side.
+- 📫 Reach me at **stefanradu320@gmail.com**
 
 <br>
 
@@ -31,11 +32,9 @@
 
 ### 🛠️ A few things I've built
 
-| | |
-|---|---|
-| 🛰️ **[SWR-Antenna-Tuner](https://github.com/skeletoncards/SWR-Antenna-Tuner)** | ESP32 firmware for an automatic antenna tuner — SWR-based stepper motor control with a live web dashboard. |
-| 💧 **[Plant-Watering-Robot](https://github.com/skeletoncards/Plant-Watering-Robot)** | Arduino plant watering robot with soil moisture sensing, an LCD readout and an automatic relay-driven pump. |
-| 🔌 **[Shack-Relay-Controller](https://github.com/skeletoncards/Shack-Relay-Controller)** | 10-channel Arduino relay panel for a ham radio shack, controlled remotely over Ethernet from a web page. |
+- 🛰️ **[SWR-Antenna-Tuner](https://github.com/skeletoncards/SWR-Antenna-Tuner)** — ESP32 firmware for an automatic antenna tuner: SWR-based stepper motor control with a live web dashboard.
+- 💧 **[Plant-Watering-Robot](https://github.com/skeletoncards/Plant-Watering-Robot)** — Arduino plant watering robot with soil moisture sensing, an LCD readout and an automatic relay-driven pump.
+- 🔌 **[Shack-Relay-Controller](https://github.com/skeletoncards/Shack-Relay-Controller)** — 10-channel Arduino relay panel for a ham radio shack, controlled remotely over Ethernet from a web page.
 
 <br>
 
@@ -53,5 +52,6 @@
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/skeletoncards)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefanradu320@gmail.com)
 
 </div>
